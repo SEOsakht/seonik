@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'charity';
+  src:  url('https://seonik.seosakht.ir/wp-content/uploads/fusion-icons/charity-v1.0/fonts/charity.eot?lh9pnl');
+  src:  url('https://seonik.seosakht.ir/wp-content/uploads/fusion-icons/charity-v1.0/fonts/charity.eot?lh9pnl#iefix') format('embedded-opentype'),
+    url('https://seonik.seosakht.ir/wp-content/uploads/fusion-icons/charity-v1.0/fonts/charity.ttf?lh9pnl') format('truetype'),
+    url('https://seonik.seosakht.ir/wp-content/uploads/fusion-icons/charity-v1.0/fonts/charity.woff?lh9pnl') format('woff'),
+    url('https://seonik.seosakht.ir/wp-content/uploads/fusion-icons/charity-v1.0/fonts/charity.svg?lh9pnl#charity') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="charity-"], [class*=" charity-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'charity' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.charity-envelope-o:before {
+  content: "\e900";
+}
+.charity-phone:before {
+  content: "\e901";
+}
+.charity-map-marker:before {
+  content: "\e902";
+}
+.charity-pagelines:before {
+  content: "\e903";
+}
+.charity-mortar-board:before {
+  content: "\e904";
+}
+.charity-stethoscope:before {
+  content: "\e905";
+}
+.charity-tint:before {
+  content: "\e906";
+}
+.charity-globe:before {
+  content: "\e907";
+}
+.charity-heart-o:before {
+  content: "\e908";
+}
+.charity-dollar:before {
+  content: "\e909";
+}
+.charity-close:before {
+  content: "\e90a";
+}
+.charity-menu:before {
+  content: "\e90b";
+}
